@@ -1,0 +1,65 @@
+[
+    {
+        "id" : 1,
+        "idKat": [1,3],
+        "naziv" : "Cactus Flower",
+        "slika": "img/bg-img/40.png",
+        "cena" : 10.99
+    },
+    {
+        "id" : 2,
+        "idKat": [1,3],
+        "naziv" : "Tulip Flower",
+        "slika": "img/bg-img/41.png",
+        "cena" : 11.99
+    },
+    {
+        "id" : 3,
+        "idKat": [1,3],
+        "naziv" : "Recuerdos Plant",
+        "slika": "img/bg-img/42.png",
+        "cena" : 9.99
+    },
+    {
+        "id" : 4,
+        "idKat": [1,2],
+        "naziv" : "Tree of happiness",
+        "slika": "img/bg-img/43.png",
+        "cena" : 12.00
+    },
+    {
+        "id" : 5,
+        "idKat": [1,2],
+        "naziv" : "Money tree",
+        "slika": "img/bg-img/44.png",
+        "cena" : 13.99
+    },
+    {
+        "id" : 6,
+        "idKat": [1,2],
+        "naziv" : "Tree of life",
+        "slika": "img/bg-img/45.png",
+        "cena" : 15.00
+    },
+    {
+        "id" : 7,
+        "idKat": [1,2],
+        "naziv" : "Violet",
+        "slika": "img/bg-img/46.png",
+        "cena" : 5.99
+    },
+    {
+        "id" : 8,
+        "idKat": [1,3],
+        "naziv" : "House palm",
+        "slika": "img/bg-img/47.png",
+        "cena" : 10.50
+    },
+    {
+        "id" : 9,
+        "idKat": [1,3],
+        "naziv" : "Bird of paradise",
+        "slika": "img/bg-img/48.png",
+        "cena" : 19.99
+    }
+]

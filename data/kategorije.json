@@ -1,0 +1,14 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "All plants"
+    },
+    {
+        "id" : 2,
+        "naziv" : "Outdoor plants"
+    },
+    {
+        "id" : 3,
+        "naziv" : "Indoor plants"
+    }
+]

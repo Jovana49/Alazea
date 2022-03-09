@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "tekst" : "Home",
+        "href": "index.html"
+    },
+    {
+        "id" : 2,
+        "tekst" : "About",
+        "href": "about.html"
+    },
+    {
+        "id" : 3,
+        "tekst" : "Shop",
+        "href": "shop.html"
+    },
+    {
+        "id" : 4,
+        "tekst" : "Author",
+        "href": "https://jovana49.github.io/JovanaKurtic/"
+    },
+    {
+        "id" : 5,
+        "tekst" : "Contact",
+        "href": "contact.html"
+    }
+]

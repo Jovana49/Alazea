@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "Sort by price - ascending"
+    },
+    {
+        "id" : 2,
+        "naziv" : "Sort by price - descending"
+    },
+    {
+        "id" : 3,
+        "naziv" : "Sort by name - ascending"
+    },
+    {
+        "id" : 4,
+        "naziv" : "Sort by name - descending"
+    },
+    {
+        "id" : 5,
+        "naziv" : "Sort by newest"
+    }
+]
